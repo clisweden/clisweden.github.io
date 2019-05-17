@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Academic</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Academic</description>
+    <title>Craig E. Wheelock on Academic</title>
+    <link>/authors/craig-e.-wheelock/</link>
+    <description>Recent content in Craig E. Wheelock on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/craig-e.-wheelock/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <description>Multi-omics integration drastically improves unsupervised molecular prediction of COPD; 100% accuracy, subgroups n=6.</description>
     </item>
     
   </channel>
