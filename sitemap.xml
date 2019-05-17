@@ -19,6 +19,12 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -52,26 +58,9 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -92,6 +81,12 @@
   </url>
   
   <url>
+    <loc>/tags/copd/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/craig-e.-wheelock/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -100,6 +95,12 @@
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-omics-integration/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -119,17 +120,7 @@
   </url>
   
   <url>
-    <loc>/tags/copd/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/multi-omics-integration/</loc>
     <priority>0</priority>
   </url>
   
