@@ -6,41 +6,26 @@
     <description>Recent content on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <title>Multi-omics analysis for stratification of chronic inflammatory lung diseases.</title>
+      <link>/talk/kiel/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/talk/kiel/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
+      <title>Full list of publication</title>
+      <link>/publication/full/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
+      <guid>/publication/full/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -266,51 +251,48 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>How to make sense of your data: Clustering and multi-omics integration.</title>
+      <link>/talk/berlin2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/talk/berlin2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Probabilistic Boolean network inference</title>
+      <link>/project/pbn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>/project/pbn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Probabilistic Boolean network inference by integrating expression with network data&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Probabilistic Boolean networks (PBNs) were firstly introduced by Ilya Shmulevich in 2002, to be used as a rule-based uncertainty model for gene regulatory networks or cell signaling network. It is possible to perform model training, validation and model-based prediction to investigate the dynamic behavior of cells or tissues in response to a stimulus, and to understand the mechanism of a specific phenotype. We developed a new strategy and toolbox - PBNinfer, to infer PBNs by integrating the known gene regulatory network with time-course gene expression data. Based on the inferred PBN, we could answer four kinds of biological questions: 1) prediction of direct or indirect regulators of specific targets; 2) construction of sub-models and pathways of interesting processes or functions; 3) prediction of dynamic behavior of cell based on simulation analysis in response to a stimulus, perturbed gene or a specified initial state; and 4) identification of key regulators that drive conversion between PBN states.&lt;/p&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A logical model for retinoic acid (RA) signaling based on REF data and literature&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Our goal was to understand the beneficial as well as the undesirable effects of treating mouse skin with tRA. We inferred a PBN for tRA-treated mouse skin with 243 genes, 518 transcriptional factor-target interactions, and 2,143 Boolean functions. It revealed multiple activation pathways for COL1A1 and COL1A2 via STAT3 consistent with well-understood literature reports. We have tested the predictions of the model with different small molecule inhibitors of STAT3 as well as inhibitors directed against other pathways that regulate COL1A1. Reliable understanding of how tRA affects the skin will lead to more rational treatments to enhance skin health.&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RVi33JqjOQQcSuHIBRpyTldzVkMgBVIk/&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Systems Medicine of COPD</title>
+      <link>/project/a-snf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/project/a-snf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Systems Medicine of COPD: Multi-‘OMICS based Molecular Sub-phenotyping of Chronic Obstructive Pulmonary Disease using Network Modeling Approaches&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;COPD is an increasing global health problem of pandemic proportions, which is likely to be caused by a multitude of etiologies including environmental exposures, genetic predispositions and developmental factors. Molecular sub-phenotyping and mechanistic modeling of COPD will therefore be essential in order to develop relevant diagnostic and treatment options. The development of computational systems medicine approaches and the availability of large-scale multi-omics datasets has provided the means to elucidate systematical alterations in the complex etiology of COPD. The project combines state-of-the-art systems medicine methodology and multi-omics datasets, representing a paradigm shift in the study of COPD and obstructive airway diseases. Expected results include not only improved understanding of COPD on a systems level, but also an in-depth probing of the nature of the inflammatory process in the lung. Subsequently, the results from this study may lead to improved techniques for early diagnosis of COPD as well as novel therapeutic targets.&lt;/p&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;COPD represents an umbrella diagnosis, with a number of different etiologies arising from an intricate interaction of environmental and hereditary factors. Two major hypotheses will be investigated: 1) we hypothesize that bridging and integration of multi-molecular- level data with environmental and clinical factors will provide improved power for subclassification and identification of COPD pathophenotypes, and that these sub-phenotypes can be investigated as function modules in molecular networks.; 2) we hypothesize that
+comparative analysis of molecular networks from COPD, resilient “healthy” smokers, and never-smoker controls can lead to identification of resilience mediators potentially protecting ‘healthy’ at-risk smokers from developing disease&lt;/p&gt;
+
+&lt;p&gt;The primary objective is to identify module-based biomarkers by integration-analysis of multi-omics data using network biology approaches, with subsequent module-based sub-phenotyping. In systems medicine, the mechanism of disease is not only caused by independent subsets of genes/proteins/metabolites identifiable by traditional statistics, but also by their interactions, making it important to develop a system-level understanding of disease. Disease subnetworks within specific cell-types, as well as exosome-mediated regulation between immune- and structural cells will be investigated. Furthermore, a probabilistic Boolean Network (PBN) model for COPD will be inferred, providing a dynamic view of pathology and potential prediction of therapeutic targets.&lt;/p&gt;
+
+&lt;p&gt;@supported by ERS/EU Marie Curie postdoc followship&lt;/p&gt;
 </description>
     </item>
     
