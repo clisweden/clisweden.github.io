@@ -6,10 +6,28 @@
     <description>Recent content in Multi-omics Integration on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/multi-omics-integration/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-omics integration for sub-phenotyping of the spectrum diagnoses asthma and COPD</title>
+      <link>/project/mats/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mats/</guid>
+      <description>Multi-omics integration for sub-phenotyping of the spectrum diagnoses asthma and COPD</description>
+    </item>
+    
+    <item>
+      <title>Molecular phenotyping of endemic lung diseases (MORPHEUS)</title>
+      <link>/project/lunapre/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lunapre/</guid>
+      <description>Molecular phenotyping of endemic lung diseases (MORPHEUS)</description>
+    </item>
     
     <item>
       <title>Integration of multi-omics datasets enables molecular classification of COPD</title>
@@ -23,7 +41,7 @@
     <item>
       <title>Systems Medicine of COPD</title>
       <link>/project/a-snf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/project/a-snf/</guid>
       <description>Multi-omics Integration Analysis in COPD</description>

@@ -149,6 +149,24 @@
     </item>
     
     <item>
+      <title>Multi-omics integration for sub-phenotyping of the spectrum diagnoses asthma and COPD</title>
+      <link>/project/mats/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mats/</guid>
+      <description>&lt;p&gt;COPD and asthma are umbrella diagnoses, and current diagnosis based on clinical characteristics alone is not sufficient. Molecular descriptors of disease sub-phenotypes are desperately needed to stratify patient populations for optimal diagnosis and treatment. We aim to utilize our recently developed systems medicine framework to facilitate identification of molecularly distinct sub- phenotypes of them in two systematical multi-omics cohorts, to help stratify these heterogeneous populations into molecularly distinct entities.&lt;/p&gt;
+
+&lt;p&gt;Alterations in mRNA, microRNA, proteomes, metabolomes, and lipid mediators from multiple anatomical locations have been quantified in two clinical cohorts specifically designed for systems medicine investigations. Data will be integrated using newly developed computational systems biology approaches in multi-omics integration and disease module biomarker identification. We found that integration of 5-7 omics data-blocks enabled 100% correct classification of COPD diagnosis with groups as small as n=6 individuals, despite strong confounding effects of current smoking.&lt;/p&gt;
+
+&lt;p&gt;The stratification of the large spectrum of chronic obstructive lung diseases that today are housed under the umbrella diagnoses asthma and COPD represents a first, essential step to facilitate the development of new diagnostic tools and pharmaceutical targets for this debilitating spectrum of diseases, eventually reducing healthcare costs, improving quality of life, and saving lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: Mats Klebergs Stiftelse for 100 000 SEK; Research funding from Karolinska Institutet 2017-2021 for 80 000 SEK.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roles&lt;/strong&gt;: Principal Investigator&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-omics analysis for stratification of chronic inflammatory lung diseases.</title>
       <link>/talk/kiel/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
@@ -170,6 +188,24 @@
 &lt;/div&gt;
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular phenotyping of endemic lung diseases (MORPHEUS)</title>
+      <link>/project/lunapre/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lunapre/</guid>
+      <description>&lt;p&gt;Chronic obstructive pulmonary disease (COPD) is a global health problem of pandemic proportions, affecting 10% of the population, 20% of which have never smoked. COPD is an umbrella diagnosis, and current diagnosis based on clinical characteristics alone is not sufficient. There is no cure or long-term effective treatment for obstructive lung disease. Molecular descriptors of disease sub-phenotypes are desperately needed to stratify patient populations for optimal diagnosis and treatment.&lt;/p&gt;
+
+&lt;p&gt;In the MORPHEUS project, we will perform systems medicine investigations of 3 clinically well-characterized cohorts to facilitate identification of molecularly distinct disease sub-phenotypes, and molecular pathways critical for the associated pathological mechanisms. Secondary goals include evaluation of wearable sensors (“smart-bands”) and a custom smartphone app for cost effective longitudinal home-monitoring of patients, to prevent adverse events and aid patients in self-management of disease.&lt;/p&gt;
+
+&lt;p&gt;This project aims to increase the precision of diagnosis of obstructive lung disease by providing quantitative molecular profiles of disease. Results may lead to development of new diagnostic tools and pharmaceutical targets for this debilitating spectrum of diseases, thereby reducing healthcare costs, improving quality of life, and saving lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: Large Research Grant from the Sweden Heart-lung fundation (&lt;strong&gt;Hjärt-Lungfonden&lt;/strong&gt;) for 15 000 000 SEK.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roles&lt;/strong&gt;: Co-applicant&lt;/p&gt;
 </description>
     </item>
     
@@ -215,27 +251,9 @@
     </item>
     
     <item>
-      <title>Probabilistic Boolean network inference</title>
-      <link>/project/pbn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/pbn/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Probabilistic Boolean network inference by integrating expression with network data&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Probabilistic Boolean networks (PBNs) were firstly introduced by Ilya Shmulevich in 2002, to be used as a rule-based uncertainty model for gene regulatory networks or cell signaling network. It is possible to perform model training, validation and model-based prediction to investigate the dynamic behavior of cells or tissues in response to a stimulus, and to understand the mechanism of a specific phenotype. We developed a new strategy and toolbox - PBNinfer, to infer PBNs by integrating the known gene regulatory network with time-course gene expression data. Based on the inferred PBN, we could answer four kinds of biological questions: 1) prediction of direct or indirect regulators of specific targets; 2) construction of sub-models and pathways of interesting processes or functions; 3) prediction of dynamic behavior of cell based on simulation analysis in response to a stimulus, perturbed gene or a specified initial state; and 4) identification of key regulators that drive conversion between PBN states.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A logical model for retinoic acid (RA) signaling based on REF data and literature&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Our goal was to understand the beneficial as well as the undesirable effects of treating mouse skin with tRA. We inferred a PBN for tRA-treated mouse skin with 243 genes, 518 transcriptional factor-target interactions, and 2,143 Boolean functions. It revealed multiple activation pathways for COL1A1 and COL1A2 via STAT3 consistent with well-understood literature reports. We have tested the predictions of the model with different small molecule inhibitors of STAT3 as well as inhibitors directed against other pathways that regulate COL1A1. Reliable understanding of how tRA affects the skin will lead to more rational treatments to enhance skin health.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RVi33JqjOQQcSuHIBRpyTldzVkMgBVIk/&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Systems Medicine of COPD</title>
       <link>/project/a-snf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/project/a-snf/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Systems Medicine of COPD: Multi-‘OMICS based Molecular Sub-phenotyping of Chronic Obstructive Pulmonary Disease using Network Modeling Approaches&lt;/strong&gt;&lt;/p&gt;
@@ -248,6 +266,24 @@ comparative analysis of molecular networks from COPD, resilient “healthy” sm
 &lt;p&gt;The primary objective is to identify module-based biomarkers by integration-analysis of multi-omics data using network biology approaches, with subsequent module-based sub-phenotyping. In systems medicine, the mechanism of disease is not only caused by independent subsets of genes/proteins/metabolites identifiable by traditional statistics, but also by their interactions, making it important to develop a system-level understanding of disease. Disease subnetworks within specific cell-types, as well as exosome-mediated regulation between immune- and structural cells will be investigated. Furthermore, a probabilistic Boolean Network (PBN) model for COPD will be inferred, providing a dynamic view of pathology and potential prediction of therapeutic targets.&lt;/p&gt;
 
 &lt;p&gt;@supported by ERS/EU Marie Curie postdoc followship&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Boolean network inference</title>
+      <link>/project/pbn/</link>
+      <pubDate>Sat, 08 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/project/pbn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Probabilistic Boolean network inference by integrating expression with network data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Probabilistic Boolean networks (PBNs) were firstly introduced by Ilya Shmulevich in 2002, to be used as a rule-based uncertainty model for gene regulatory networks or cell signaling network. It is possible to perform model training, validation and model-based prediction to investigate the dynamic behavior of cells or tissues in response to a stimulus, and to understand the mechanism of a specific phenotype. We developed a new strategy and toolbox - PBNinfer, to infer PBNs by integrating the known gene regulatory network with time-course gene expression data. Based on the inferred PBN, we could answer four kinds of biological questions: 1) prediction of direct or indirect regulators of specific targets; 2) construction of sub-models and pathways of interesting processes or functions; 3) prediction of dynamic behavior of cell based on simulation analysis in response to a stimulus, perturbed gene or a specified initial state; and 4) identification of key regulators that drive conversion between PBN states.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A logical model for retinoic acid (RA) signaling based on REF data and literature&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal was to understand the beneficial as well as the undesirable effects of treating mouse skin with tRA. We inferred a PBN for tRA-treated mouse skin with 243 genes, 518 transcriptional factor-target interactions, and 2,143 Boolean functions. It revealed multiple activation pathways for COL1A1 and COL1A2 via STAT3 consistent with well-understood literature reports. We have tested the predictions of the model with different small molecule inhibitors of STAT3 as well as inhibitors directed against other pathways that regulate COL1A1. Reliable understanding of how tRA affects the skin will lead to more rational treatments to enhance skin health.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RVi33JqjOQQcSuHIBRpyTldzVkMgBVIk/&#34; target=&#34;_blank&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

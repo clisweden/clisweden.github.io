@@ -6,6 +6,7 @@
     <description>Recent content in AI on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2011 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Probabilistic Boolean network inference</title>
       <link>/project/pbn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>/project/pbn/</guid>
       <description>A logical model for retinoic acid (RA) signaling</description>

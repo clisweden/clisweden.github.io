@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COPD on Academic</title>
-    <link>/tags/copd/</link>
-    <description>Recent content in COPD on Academic</description>
+    <title>Asthma on Academic</title>
+    <link>/tags/asthma/</link>
+    <description>Recent content in Asthma on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/copd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/asthma/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>/project/lunapre/</guid>
       <description>Molecular phenotyping of endemic lung diseases (MORPHEUS)</description>
-    </item>
-    
-    <item>
-      <title>Integration of multi-omics datasets enables molecular classification of COPD</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>Multi-omics integration drastically improves unsupervised molecular prediction of COPD; 100% accuracy, subgroups n=6.</description>
-    </item>
-    
-    <item>
-      <title>Systems Medicine of COPD</title>
-      <link>/project/a-snf/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/project/a-snf/</guid>
-      <description>Multi-omics Integration Analysis in COPD</description>
     </item>
     
   </channel>

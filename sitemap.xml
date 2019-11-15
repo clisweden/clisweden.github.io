@@ -37,6 +37,47 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/asthma/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/copd/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-omics-integration/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/mats/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/talk/kiel/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -44,12 +85,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -86,9 +121,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/project/lunapre/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -109,12 +143,6 @@
   </url>
   
   <url>
-    <loc>/tags/copd/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/craig-e.-wheelock/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -123,12 +151,6 @@
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/multi-omics-integration/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -143,21 +165,19 @@
   </url>
   
   <url>
+    <loc>/project/a-snf/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ai/</loc>
+    <lastmod>2011-10-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/pbn/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/a-snf/</loc>
+    <lastmod>2011-10-08T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
